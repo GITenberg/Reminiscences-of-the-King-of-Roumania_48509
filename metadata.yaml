@@ -1,0 +1,30 @@
+_repo: Reminiscences-of-the-King-of-Roumania_48509
+contributor:
+  creator:
+    editor:
+      agent_name: Whitman, Sidney
+      gutenberg_agent_id: '44825'
+      url: http://www.gutenberg.org/2009/agents/44825
+creator:
+  author:
+    agent_name: Kremnitz, Mite
+    aliases:
+    - Kremnitz, Marie Charlotte
+    - Dito und Idem
+    - Bardeleben, Marie von
+    birthdate: 1852
+    deathdate: 1916
+    gutenberg_agent_id: '9378'
+    url: http://www.gutenberg.org/2009/agents/9378
+    wikipedia: http://en.wikipedia.org/wiki/Mite_Kremnitz
+description: ''
+gutenberg_issued: '2015-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Reminiscences of the King of Roumania
+url: http://www.gutenberg.org/ebooks/48509
