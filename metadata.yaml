@@ -1,10 +1,14 @@
 _repo: Reminiscences-of-the-King-of-Roumania_48509
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Whitman, Sidney
       gutenberg_agent_id: '44825'
       url: http://www.gutenberg.org/2009/agents/44825
+covers:
+- cover_type: archival
+  image_path: 48509-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Kremnitz, Mite
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9378
     wikipedia: http://en.wikipedia.org/wiki/Mite_Kremnitz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48509#Reminiscences-of-the-King-of-Roumania
 gutenberg_issued: '2015-03-17'
 gutenberg_type: Text
 identifiers:
